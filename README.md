@@ -1,3 +1,4 @@
-Este é um sistema utilizando javascript, nodeJS, html, css.
-Este sistema foi uma maneira da rocketseat ensinar aos estudantes novas ferramentas e alinhar o padrão de desenvolvimento de um modo geral.
+This is a system using programming languages: javascript, nodeJS, html, css and SQL.
+
+This system was a way for rocketseat to teach students new tools and to align the development pattern in general.
 
